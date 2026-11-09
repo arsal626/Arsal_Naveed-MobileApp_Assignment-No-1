@@ -1,9 +1,9 @@
 # Mobile Application Development - Assignment 1
-Name: Arsal Naveed
-ID: F2023266900
-Course: Mobile Application Development V1
-Instructor: M. Shahbaz Ali
-University: University of Management and Technology (UMT)
+- Name: Arsal Naveed
+- ID: F2023266900
+- Course: Mobile Application Development V1
+- Instructor: M. Shahbaz Ali
+- University: University of Management and Technology (UMT)
 
 
 ## Technologies Used
